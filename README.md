@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idoberenshtain
-- 💁‍♂️ I'm 17 years old from Kiryat Malachi, Israel
+- 💁‍♂️ I'm 18 years old from Kiryat Malachi, Israel
 - 👀 I’m in Magshimim project
-- 🌱 I’m currently learning 2nd year of magshimim
+- 🌱 I’m currently learning 3rd year of Magshimim
 - 💞️ My experience in programming is about 4+ years
 - 📫 How to reach me: idoberenshtain@gmail.com , IDO#5198
 
